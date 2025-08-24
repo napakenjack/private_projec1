@@ -14,7 +14,7 @@
     <!-- Preloader -->
     <div id="preloader" aria-hidden="true">
         <div class="preloader-inner">
-            <img class="preloader-logo" src="<?php echo get_template_directory_uri(); ?>/images/assets/icon.png"
+            <img class="preloader-logo" src="https://napakenjack.github.io/private_projec1/wp-content/uploads/2025/08/icon.png"
                 alt="" />
             <div class="preloader-spinner" role="status" aria-label="Loading"></div>
         </div>
@@ -27,11 +27,11 @@
             <div class="primary_menu_logo_container">
 
                 <a class="primary_menu_logo" href="<?php echo esc_url(home_url('/')); ?>">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/assets/icon.png"
+                    <img src="https://napakenjack.github.io/private_projec1/wp-content/uploads/2025/08/icon.png"
                         alt="Cando Kids Logo" />
                 </a>
                 <a class="primary_menu_logo" href="<?php echo esc_url(home_url('/')); ?>">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/assets/icon2.png"
+                    <img src="https://napakenjack.github.io/private_projec1/wp-content/uploads/2025/08/icon2.png"
                         alt="Cando Kids Logo" />
                 </a>
             </div>
@@ -39,11 +39,11 @@
             <div class="primary_menu_logo_container_responsive">
 
                 <a class="primary_menu_logo" href="<?php echo esc_url(home_url('/')); ?>">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/assets/icon.png"
+                    <img src="https://napakenjack.github.io/private_projec1/wp-content/uploads/2025/08/icon.png"
                         alt="Cando Kids Logo" />
                 </a>
                 <a class="primary_menu_logo" href="<?php echo esc_url(home_url('/')); ?>">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/assets/icon2.png"
+                    <img src="https://napakenjack.github.io/private_projec1/wp-content/uploads/2025/08/icon2.png"
                         alt="Cando Kids Logo" />
                 </a>
             </div>
